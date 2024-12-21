@@ -1,10 +1,9 @@
 # altschool_semester2_project
-This is my AltSchool Cloud Engineering semester 2 project.\
-The following are the required deliverables for this project:
+This is my AltSchool Cloud Engineering semester 2 project. The following are the required deliverables for this project:
 ### **Deliverables:**
 •	The public IP address or URL of your web page: **35.179.112.244**\
 •	A screenshot showing your HTML page in a browser: **Uploaded**\
-•	Write clear, step-by-step documentation of how you provisioned the server, installed the web server, deployed the HTML page, and configured networking.\
+•	Write clear, step-by-step documentation of how you provisioned the server, installed the web server, deployed the HTML page, and configured networking.
 The following steps were followed in provisioning an Instance, installing a web server, deploying the HTML page and configuring my network:
 1.	I launched an Ubuntu LTS EC2 instance from the AWS management console.
 2.	Generated a .pem key pair file to enable connection from the CLI. This file was moved to the directory I wanted to work from.
