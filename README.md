@@ -1,5 +1,5 @@
 # altschool_semester2_project
-This is my AltSchool Cloud Engineering semester 2 project. The following are the required deliverables for this project:\
+This is my AltSchool Cloud Engineering semester 2 project. The following are the required deliverables for this project:
 ### **Deliverables:**
 •	The public IP address or URL of your web page: **35.179.112.244**\
 •	A screenshot showing your HTML page in a browser: **Uploaded**\
