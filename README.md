@@ -14,9 +14,8 @@ The following steps were followed in provisioning an Instance, installing a web 
 7.	Installed Apache2 using command **sudo apt install apache2**
 8.	Created a simple HTML page on Visual Studio Code.
 9.	Started and checked the status of the Apache webserver using command 
-**sudo systemctl start apache2** then **sudo systemctl status apache2**
-Then confirmed Apache was installed correctly and working by typing Instance’s public address into a web browser.
+**sudo systemctl start apache2** then **sudo systemctl status apache2.** I confirmed Apache was installed correctly and working by typing Instance’s public address into a web browser.
 10.	Changed directory to /var/www/html to enable copying of the HTML code into the right directory. I removed the Apache default index.html and created a new index.html file using the following command: **rm -r index.html** then **touch index.html**
-11.	Copied and pasted HTML code into nano text editor. Open nano editor: **nano index.html** pasted copied HTML code using ctrl+shift+v then write and save. I had to edit file permissions to rwx because I noticed I couldn’t write to file initially.
+11.	Copied and pasted HTML code into nano text editor. Opened nano editor: **nano index.html** pasted copied HTML code using ctrl+shift+v then write and save. I had to edit file permissions to rwx because I noticed I couldn’t write to file initially.
 12.	Copied Instance’s public IP address into web browser to view HTML page.
 
