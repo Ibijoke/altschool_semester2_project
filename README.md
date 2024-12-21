@@ -1,6 +1,6 @@
 # altschool_semester2_project
 This is my AltSchool Cloud Engineering semester 2 project
-The following are the required deliverables for this project:
+\nThe following are the required deliverables for this project:
 •	The public IP address or URL of your web page: 35.179.112.244
 •	A screenshot showing your HTML page in a browser: Uploaded
 •	Write clear, step-by-step documentation of how you provisioned the server, installed the web server, deployed the HTML page, and configured networking.
